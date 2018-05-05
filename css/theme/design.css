@@ -1,0 +1,13 @@
+/*********************************************
+ * GLOBAL STYLES
+ *********************************************/
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono|Open+Sans');
+
+ body {
+    background: rgb(255, 240, 107);
+    background-color: #fff; 
+}
+
+h1{
+    font-family: 'Oswald', sans-serif;
+}
